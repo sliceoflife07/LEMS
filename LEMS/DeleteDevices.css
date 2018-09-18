@@ -1,0 +1,42 @@
+h1{
+    color:pink;
+	font-family:GungsuhChe;
+	font-weight:bold;
+	font-style:italic;
+	font-size:100px;
+    text-align:center;
+	margin-top:50px;
+}
+
+table,tr,td{
+	margin:0px auto;
+}
+
+#devicename{
+	width:400px;
+	height:30px;
+}
+
+#searchname{
+	width:150px;
+	height:30px;
+	font-family:Lucida Console;
+}
+
+#back{
+	font-weight:bold;
+	font-size:large;
+	color:red;
+	height:40px;
+	width:200px;
+	margin-left:1100px;
+	margin-top:200px;
+	font-family:Lucida Console;
+}
+
+body {
+	background-image:url("background1.jpg");
+ 	background-repeat:no-repeat;
+	background-position:0px 0px;
+	background-size:cover;
+}

@@ -1,0 +1,55 @@
+h1{
+    color:pink;
+	font-family:GungsuhChe;
+	font-weight:bold;
+	font-style:italic;
+	font-size:100px;
+    text-align:center;
+	margin-top:50px;
+}
+
+table {
+    border-collapse:collapse;
+  }
+
+table, td, th{
+    border:3px solid gray;
+}
+
+td{
+	font-family:Ebrima;
+	text-align:center;
+	font-weight:bold;
+}
+
+th{
+    background-color:gray;
+    color:white;
+}
+
+
+#print {
+	width:200px;
+	height:40px;
+	margin-left:560px;
+	margin-top:30px;
+	font-family:Lucida Console;
+}
+
+#back{
+	font-weight:bold;
+	font-size:large;
+	color:red;
+	width:200px;
+	height:40px;
+	margin-left:1100px;
+	margin-top:10px;
+	font-family:Lucida Console;
+}
+
+body {
+	background-image:url("background1.jpg");
+ 	background-repeat:no-repeat;
+	background-position:0px 0px;
+	background-size:cover;
+}

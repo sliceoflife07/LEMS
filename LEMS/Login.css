@@ -1,0 +1,48 @@
+h1{
+    color:pink;
+	font-family:GungsuhChe;
+	font-weight:bold;
+	font-style:italic;
+	font-size:100px;
+    text-align:center;
+	margin-top:50px;
+}
+
+#table1{
+	color:blue;
+	font-family:GungsuhChe;
+	margin:0px auto;
+}
+
+#table2{
+	margin:0px auto;
+}
+
+.text{
+	width:300px;
+	height:30px;
+}
+
+#login {
+	font-family:Lucida Console;
+	color:red;
+	width:150px;
+	height:35px;
+	margin-top:50px;
+}
+
+#createaccount{
+	font-family:Lucida Console;
+	color:green;
+	width:150px;
+	height:35px;
+	margin-left:50px;
+	margin-top:50px;
+}
+
+body {
+	background-image:url("background.jpg");
+ 	background-repeat:no-repeat;
+    background-position:0px 0px; 
+    background-size:cover; 
+} 
